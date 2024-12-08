@@ -6,4 +6,3 @@
  * 웹 페이지의 DOM 요소를 조작.
  * 외부 웹 페이지에서 데이터를 읽거나 수정.
  */
-document.body.style.border = '5px solid red';
